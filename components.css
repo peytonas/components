@@ -1,8 +1,15 @@
 .top-height {
-  height: 115px;
+  height: 145px;
   background-color: teal;
 }
 
-* {
-  border: 1px solid red;
+.btn {
+  padding: .425rem .425rem;
+  margin-top: 6px;
+  margin-right: -240px;
+  margin-bottom: -16px;
+  font-size: 10px;
+  line-height: .5;
+  border-radius: .25rem;
+
 }
