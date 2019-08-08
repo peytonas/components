@@ -25,8 +25,14 @@
 }
 
 .card-body {
-  height: 145px;
+  height: 210px;
   border: solid 2px teal;
   color: teal;
   font-size: 10px;
 }
+
+.goldblum {
+  height: 112px;
+  margin-top: -15px;
+}
+
