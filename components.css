@@ -1,4 +1,8 @@
 .top-height {
-  height: 75px;
+  height: 115px;
   background-color: teal;
+}
+
+* {
+  border: 1px solid red;
 }
