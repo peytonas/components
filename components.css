@@ -7,6 +7,14 @@
   height: 15px;
 }
 
+.third-row-height {
+  height: 145px;
+  color: white;
+}
+
+.bg-color {
+  background-color: black;
+}
 
 .btn {
   padding: .425rem .425rem;
